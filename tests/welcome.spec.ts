@@ -30,6 +30,8 @@ test.describe('Login Page tests',()=>{
        await welcome.hovermover();
         await welcome.pause();
         console.log("this is a properly run");
+console.log("this is a properly run2"):
+
         
         
 
