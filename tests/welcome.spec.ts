@@ -29,6 +29,7 @@ test.describe('Login Page tests',()=>{
        await welcome.footerview();
        await welcome.hovermover();
         await welcome.pause();
+        console.log("this is a properly run");
         
         
 
